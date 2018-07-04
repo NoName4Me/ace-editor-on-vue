@@ -1,4 +1,10 @@
 # ace-editor-on-vue
+------
+
+![](https://img.shields.io/badge/vue-%3E2.0-brightgreen.svg)
+![](https://img.shields.io/npm/v/ace-editor-on-vue.svg)
+![](https://img.shields.io/npm/dt/ace-editor-on-vue.svg)
+![](https://img.shields.io/github/license/NoName4Me/ace-editor-on-vue.svg)
 
 A vuejs based component, based on bace, on Ace.
 

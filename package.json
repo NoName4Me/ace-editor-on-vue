@@ -1,0 +1,23 @@
+{
+  "name": "ace-editor-on-vue",
+  "version": "1.0.0",
+  "description": "A vuejs based component, based on bace, on Ace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NoName4Me/ace-editor-on-vue.git"
+  },
+  "keywords": [
+    "ace",
+    "vue"
+  ],
+  "author": "Jonge Den",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoName4Me/ace-editor-on-vue/issues"
+  },
+  "homepage": "https://github.com/NoName4Me/ace-editor-on-vue#readme"
+}
